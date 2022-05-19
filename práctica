@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Mi rincón tecnológico</title>
+    </head>
+    <body>
+       <h1>Práctica:</h1>
+        <h2>El procesador de texto Writer</h2>
+        <ol>
+            <li>Práctica 1: Formato</li>
+            <li>Práctica 2: Viñetas y numeración</li>
+            <li>Práctica 3: Tablas</li>
+        </ol>
+        <h2>Html</h2>
+        <ul>
+            <li>Práctica 1: Hola mundo cruel</li>
+            <li>...Por ver...</li>
+            <li>...Por ver...</li>
+        <ul>
+        <a href="index.html
+">
+            <img src="flechita.jpeg">
+        </a>
+
+    </body>
+
+</html>
