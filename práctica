@@ -2,9 +2,18 @@
 <html>
     <head>
         <title>Mi rincón tecnológico</title>
+        <style type="text/css">
+            #todo{background: #73f5ed; text-align :center; margin-right:25%; margin-left:25%; border-top:10px solid; border-color: #0334fa}
+            #titulo{background:  #f7bdf1; font-size : 40px; color:  #0334fa}
+            h2{color: #0334fa; font-size: 20px}
+            li{font-size: 20px}
+        
+
+
+        </style>
     </head>
-    <body>
-       <h1>Práctica:</h1>
+    <body id="todo">
+       <h1 id="titulo">Práctica</h1>
         <h2>El procesador de texto Writer</h2>
         <ol>
             <li>Práctica 1: Formato</li>

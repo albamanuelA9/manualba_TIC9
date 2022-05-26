@@ -2,9 +2,18 @@
 <html>
     <head>
         <title>Mi rincón tecnológico</title>
+        <style type="text/css">
+            #todo{background: #73f5ed; text-align: center; margin-right: 25%; margin-left:25% ; border-top: 10px solid; border-color:#0334fa}
+            #titulo{font-size:40px; background: #f7bdf1; color:#0334fa}
+            h2{color:#0334fa; font-size:20px}
+            p{font-size:20px}
+            
+
+
+        </style>
     </head>
-    <body>
-        <h1>Teoría</h1>
+    <body id="todo">
+        <h1 id="titulo">Teoría</h1>
         <h2>Conceptos básicos de la informática</h2>
         <p>Globalización, fractura digital, telecomunicaciones...</p>
         <a href="index.html">
